@@ -1,7 +1,3 @@
-Here is a README file for your Cypress Automation project with the RESTful Booker API. 
-
----
-
 # RESTful Booker API Testing with Cypress
 
 This project demonstrates how to perform automated testing of the RESTful Booker API using Cypress, JavaScript, and the Page Object Model (POM) design pattern. The tests cover various HTTP methods, including GET, POST, PUT, PATCH, and DELETE, to ensure the proper functionality of the API endpoints.
